@@ -2,7 +2,7 @@
 - 👀 I’m interested in DeepLearning
 - 🌱 I’m currently learning in Soochow University
 - 💞️ I’m looking to collaborate on specialize the model of DeepLearning
-- 📫 How to reach me? You can reach me by e-mail "545534560@qq.com"
+- 📫 How to reach me? You can reach me on my homepage.
 
 <!---
 SavionZhou/SavionZhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
